@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsFile CurrentProfile="(Default)" GeneratedClassNamespace="StenogrammSaver" GeneratedClassName="Settings1" xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings>
+    <Setting Name="AllServers" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LastLogin" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">704</Value>
+    </Setting>
+    <Setting Name="LastServer" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">magsrv</Value>
+    </Setting>
+    <Setting Name="OutputDir" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">F:\projects\SharpDevelop Projects\StenogrammSaver\StenogrammSaver\outtext</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
